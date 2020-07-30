@@ -1,2 +1,2 @@
-rootProject.name='Ejemplo Coursera'
+rootProject.name='Coursera'
 include ':app'
